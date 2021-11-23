@@ -4,3 +4,29 @@ body {
 #logo {
   height: 3rem;
 }
+.icons-travel {
+  color: white;
+  background-color: turquoise;
+}
+.card-border-radius {
+  border-radius: 0;
+  border: 0;
+}
+hr {
+  border: 2px solid turquoise;
+}
+.color-bg {
+  background-color: turquoise;
+}
+.card-equal {
+  height: 25rem;
+}
+.btn-turquoise {
+  background-color: turquoise;
+}
+form {
+  border-radius: 5px;
+}
+footer {
+  background-color: turquoise;
+}
