@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  font-family: "Open Sans", sans-serif;
 }
 #logo {
   height: 3rem;
@@ -18,8 +19,8 @@ hr {
 .color-bg {
   background-color: turquoise;
 }
-.card-equal {
-  height: 25rem;
+#destacados .card {
+  font-weight: 300;
 }
 .btn-turquoise {
   background-color: turquoise;
